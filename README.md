@@ -44,4 +44,4 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 <img src="/order-form.png" alt="Order App"/>
 
-<img src="/about.png" alt="Order App"/>
+<img src="/about_page.png" alt="Order App"/>
