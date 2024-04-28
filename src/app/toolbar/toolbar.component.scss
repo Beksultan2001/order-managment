@@ -1,0 +1,28 @@
+// .example-spacer {
+//  flex: 1 1 auto;
+// }
+
+mat-toolbar{
+ display: flex;
+ justify-content: space-between;
+}
+
+.navbar{
+
+ display: flex;
+ gap: 1rem;
+
+}
+mat-button {
+ margin-right: 10px;
+}
+
+a.mat-button {
+ text-decoration: none;
+ color: inherit; 
+}
+
+.active {
+ font-weight: bold;
+ color: #f0f;
+}

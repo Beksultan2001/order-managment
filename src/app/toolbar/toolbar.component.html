@@ -1,0 +1,8 @@
+<mat-toolbar color="primary">
+ <span>Order App</span>
+ <nav class="navbar">
+  <a mat-button routerLink="/home" [routerLinkActiveOptions]="{exact: true}" routerLinkActive="active">Home</a>
+  <a mat-button routerLink="/about" [routerLinkActiveOptions]="{exact: true}" routerLinkActive="active">About</a>
+  <button mat-raised-button (click)="openDetailForm()">Insert Order</button>
+ </nav>
+</mat-toolbar>
