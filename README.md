@@ -28,7 +28,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Json-server 
-In a separate file, you need to run json-server `json-server --watch db.json` it is used as a backend server  its default port is 3000.
+In a separate terminal, you need to run json-server `json-server --watch db.json` it is used as a backend server  its default port is 3000.
 
 ## Code scaffolding
 
