@@ -4,10 +4,10 @@ The basic order management app allows users to add, view, edit, and delete order
 
 Technologies used:
 
-Angular 17
-Angular Material for UI
-CSS
-json-server for CRUD operations and saving data in JSON format in db.json"
+Angular 17 <br>
+Angular Material for UI  <br>
+SCSS <br>
+json-server for CRUD operations and saving data in JSON format in db.json
 
 
 ## Screenshots
